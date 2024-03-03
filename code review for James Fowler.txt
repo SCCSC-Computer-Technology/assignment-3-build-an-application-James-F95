@@ -1,0 +1,35 @@
+Code review for James Fowler:
+Anna Stefanacci
+
+Code Compilation and Warnings:
+
+- I was able to run this code with no issues, and I also read your readMe. I have a note at the bottom for that! :)
+
+Readability and Documentation:
+
+- I would recommend adding comments to your code. While the variables and code were easy enough to understand, adding comments would greatly improve readability. 
+
+Repetitive Code and Dead Code:
+
+- There are no instances of dead code.
+- I understand the redunancy of your code due to your struggle with adding a database.
+
+Software Defects and Testing:
+
+- I had no issues running, testing, or even attempting to break the code. (You even made sure I couldn't type into any of the textBoxes!)
+
+Appropriateness of Framework and Code Usage:
+
+- Although this program didn't exactly meet the requirements of the assignment. The use of methods and constructors was valid and thorough. 
+
+Constructive Feedback:
+
+- I completely understand the struggle of adding a database. I am also taking sql right now, so I used an access database to link my data. Here is how I did it:
+
+At the top, if you go to project > add new datasource > click database > dataset > new connection > microsoft access database file > browse > click the file you want to link > and make sure you test connection. After that you should be linked.
+
+Where you might run into issues under the database properties:
+
+click project at the top > all the way at the bottom is should be YourProgram_Properties (for me it's States_AnnaStefanacci_CPT206_Properties) > click build on the left-hand side > if "prefer 32-bit" is clicked on turn it off
+
+That was my issue, and I have to - for whatever reason - fix that everyime I link an access database. Hope that helps!!
