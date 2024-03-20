@@ -1,0 +1,19 @@
+James Folwer code review by Aaron Rash
+
+Obviously its not what you wanted lol but major respect for delivering a product instead of giving up
+
+Code is pretty solid, your class and constructor get the job done.
+
+Just for fun, lets run with your workaround. 
+
+You said you used access, but that wasnt working, so you eventually used a list.
+
+From access, you can export a table as a text file/csv. (not sure if you did that)
+
+You could then put that text file in your project, and read in the file using something like "StreamReader"
+
+Add a loop, use delimiters, with some messing around you could automate adding all that info.
+
+Might be a bit more complicated but it could cut your code down 200ish lines probably
+
+Good job making it happen despite the circumstances
