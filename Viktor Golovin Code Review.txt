@@ -1,0 +1,3 @@
+From what was there, the code ran well. 
+I too didn't complete the entire assignment flawlessly to be honest with you, but from what there is it's a solid program. I never did Linq to sql before and I didn't think it'd take as much time as it did so i was on a big time crunch but good job for what you did I enjoyed running the program and looking through it. and I didn't run by any dead code even though there was a little bit of redundancy, overall good attemt I respect it.
+
